@@ -28,7 +28,7 @@ twitter_username: Youi
 github_username:  Youii
 
 # Build settings
-theme: minima
+theme: architec
 plugins:
   - jekyll-feed
 
