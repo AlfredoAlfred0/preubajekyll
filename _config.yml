@@ -28,7 +28,7 @@ twitter_username: Youi
 github_username:  Youii
 
 # Build settings
-theme: time-machine
+theme: cayman
 plugins:
   - jekyll-feed
 
